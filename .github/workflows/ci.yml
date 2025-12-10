@@ -1,0 +1,56 @@
+name: Berzerk CI/CD
+
+on:
+  push:
+    branches:
+      - main
+      - staging
+      - production
+  pull_request:
+    branches:
+      - main
+      - staging
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest -v
+
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run linter
+        run: |
+          pip install flake8
+          flake8 .
+
+  deploy:
+    needs: [build, lint]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/production'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Deploy to server
+        run: |
+          echo "Deploying Berzerk orchestrator..."
+          # qui puoi inserire i comandi di deploy (es. rsync, docker, kubectl)
