@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>⚡ Berzerk Dev Hub IDE ⚡</title>
+  <style>
+    body { background:#0d0d0d; color:#00ffcc; font-family:monospace; padding:20px; }
+    h1 { text-align:center; color:#ff00ff; text-shadow:0 0 10px #ff00ff; }
+    button { background:#ff00ff; color:black; padding:10px 20px; border:none; cursor:pointer; margin:5px; font-weight:bold; }
+    button:hover { background:#00ffcc; }
+    pre { background:#111; padding:20px; border-left:4px solid #00ffcc; max-height:300px; overflow:auto; }
+    .progress { width:100%; background:#222; margin-top:20px; }
+    .bar { width:0%; height:20px; background:#00ffcc; transition:width 0.5s; }
+    #editor { height:300px; border:1px solid #00ffcc; margin-top:20px; }
+  </style>
+</head>
+<body>
+  <h1>⚡ Berzerk Dev Hub IDE ⚡</h1>
+  <button onclick="runFix()">Rigenera con Fix</button>
+  <button onclick="clearLog()">Pulisci Log</button>
+  <button onclick="sendCmd()">Esegui Comando</button>
+  <input id="cmd" placeholder="Inserisci comando..." style="width:60%;padding:5px;">
+  <div class="progress"><div id="bar" class="bar"></div></div>
+  <pre id="log">Premi un comando per avviare la rigenerazione dei repo...</pre>
+  <div id="editor"></div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.34.0/min/vs/loader.min.js"></script>
+  <script>
+    const repos=["AI-Driven","Cocoon","Malware-APK","OmniaTech-AI","XR-Coin","XR-Infinity","zDOS-Tool"];
+    function updateBar(c,t){document.getElementById('bar').style.width=Math.round((c/t)*100)+'%';}
+    function runFix(){
+      document.getElementById('log').textContent="Avvio rigenerazione con fix...";
+      fetch('/fix').then(r=>r.json()).then(d=>{
+        let i=0;let int=setInterval(()=>{if(i<repos.length){updateBar(i+1,repos.length);document.getElementById('log').textContent+="\nFix completato: "+repos[i];i++;}else clearInterval(int);},1000);
+      });
+    }
+    function clearLog(){document.getElementById('log').textContent="Log pulito.";document.getElementById('bar').style.width="0%";}
+    function sendCmd(){
+      let cmd=document.getElementById('cmd').value;
+      fetch('/terminal',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({cmd})})
+      .then(r=>r.json()).then(d=>{document.getElementById('log').textContent+="\n$ "+cmd+"\n"+d.log;});
+    }
+    require.config({paths:{'vs':'https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.34.0/min/vs'}});
+    require(['vs/editor/editor.main'],function(){
+      monaco.editor.create(document.getElementById('editor'),{value:"# Benvenuto nel cuore di Berzerk\n",language:"python",theme:"vs-dark"});
+    });
+  </script>
+</body>
+</html>
