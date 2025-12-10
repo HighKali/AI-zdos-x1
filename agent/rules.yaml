@@ -1,0 +1,16 @@
+categories:
+  core:
+    auto_fix: true
+    deps_auto_upgrade: "minor-patch"
+    ci_template: "standard"
+  termux:
+    lint_shell: true
+    perm_hardening: true
+    logs_resilient: true
+  restricted:
+    no_exec: true
+    sast_only: true
+    doc_warning: true
+routing:
+  XR-Miner: restricted
+  malware-apk: restricted

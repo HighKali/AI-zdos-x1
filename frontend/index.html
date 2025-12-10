@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Berzerk Dashboard</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <h1>Berzerk Orchestrator</h1>
+    <div class="actions">
+      <button id="ingest">Ingest</button>
+      <button id="normalize">Normalize + Reports</button>
+      <span id="status"></span>
+    </div>
+  </header>
+  <main>
+    <section>
+      <h2>Repository</h2>
+      <table id="repos">
+        <thead><tr><th>Nome</th><th>Stato</th><th>Ultimo run</th></tr></thead>
+        <tbody></tbody>
+      </table>
+    </section>
+    <section>
+      <h2>Reports</h2>
+      <div id="reports"></div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
