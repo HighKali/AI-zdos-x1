@@ -1,0 +1,6 @@
+{
+  "routing": {
+    "XR-Miner": "restricted",
+    "malware-apk": "restricted"
+  }
+}

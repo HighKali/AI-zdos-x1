@@ -1,0 +1,14 @@
+{
+  "global": {
+    "require_signed_commits": false,
+    "sbom": "cyclonedx",
+    "attestation": false,
+    "semver": "auto",
+    "require_checks_green": false
+  },
+  "categories": {
+    "core": { "auto_fix": true, "deps_auto_upgrade": "minor-patch", "ci_template": "standard" },
+    "termux": { "lint_shell": true, "perm_hardening": true, "logs_resilient": true },
+    "restricted": { "no_exec": true, "sast_only": true, "doc_warning": true }
+  }
+}

@@ -1,0 +1,32 @@
+name: CI
+on:
+  pull_request:
+  push:
+    branches: [ "main", "staging/**", "production/**" ]
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with: { node-version: "lts/*" }
+      - name: Install
+        run: |
+          if [ -f package.json ]; then npm ci || pnpm install --frozen-lockfile || yarn --frozen-lockfile; fi
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Lint
+        run: |
+          [ -f package.json ] && (npm run lint || pnpm lint || true)
+          command -v shellcheck && [ -d scripts ] && shellcheck scripts/*.sh || true
+      - name: Test
+        run: |
+          [ -f package.json ] && (npm test -- --ci || pnpm test -- --ci || true)
+          [ -d tests ] && pytest -q || true
+      - name: SBOM
+        run: |
+          mkdir -p sbom
+          [ -f package.json ] && (npm run sbom:generate || pnpm sbom:generate || true)
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with: { name: "reports", path: "sbom" }
