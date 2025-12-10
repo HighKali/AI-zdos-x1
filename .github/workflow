@@ -1,0 +1,44 @@
+name: Berzerk CI/CD
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout del codice
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      # 3. Installazione dipendenze
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flask
+
+      # 4. Rigenerazione repo con fix
+      - name: Run Berzerk Fix
+        run: |
+          bash berzerk_fix.sh
+
+      # 5. Deploy su gh-pages
+      - name: Deploy dashboard to gh-pages
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin gh-pages || echo "No gh-pages branch yet"
+          git checkout gh-pages || git checkout -b gh-pages
+          cp -r webapp/templates/index.html .
+          git add index.html
+          git commit -m "Auto-update Berzerk IDE dashboard" || echo "No changes to commit"
+          git push origin gh-pages
