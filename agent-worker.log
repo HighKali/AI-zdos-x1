@@ -55,3 +55,339 @@ nohup: ignoring input
 [✓] Dipendenze sistemate per xr-coin
 /data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a omniatech-ai
+[✓] Dipendenze sistemate per omniatech-ai
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a malware-apk
+[✓] Dipendenze sistemate per malware-apk
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a AI-Driven
+[✓] Dipendenze sistemate per AI-Driven
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a cocoon
+[✓] Dipendenze sistemate per cocoon
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a zDOS-tool
+[✓] Dipendenze sistemate per zDOS-tool
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-infinity
+[✓] Dipendenze sistemate per xr-infinity
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
+[✓] Templates applicati a xr-coin
+[✓] Dipendenze sistemate per xr-coin
+/data/data/com.termux/files/home/berzerk/agent/worker.py:2: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  def _now(): return datetime.datetime.utcnow().isoformat() + "Z"
